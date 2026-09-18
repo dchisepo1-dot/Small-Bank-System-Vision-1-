@@ -60,7 +60,6 @@ Transaction management
 Application logic
 Git and GitHub
 Software project organization
-Creativity
 
 The project is continuously evolving as I learn new programming concepts.
 
@@ -744,30 +743,7 @@ Web Interface                 🔄
 Advanced Security             🔄
 Automated Testing             🔄
 📜 Version History
-Vision 1
 
-The original project focused on creating a basic banking system and learning fundamental Python concepts.
-
-Vision 2
-
-Vision 2 expands the project with:
-
-Object-oriented account classes
-Student accounts
-Savings accounts
-Business accounts
-Authentication
-Password validation
-Account suspension
-Account recovery
-Deposits
-Withdrawals
-Money transfers
-Transaction IDs
-Transfer history
-Administrative functions
-Banking statistics
-Account activity tracking
 👨‍💻 Developer
 Divine Chisepo
 
@@ -790,7 +766,7 @@ Learn → Build → Find Problems → Improve → Build Again
 
 INDI Bank is a project that will continue changing as my programming knowledge grows.
 
-Vision 2 is not intended to be the final version.
+Vision 1 is not intended to be the final version.
 
 It is another step in my journey toward becoming a software developer.
 
@@ -802,9 +778,8 @@ It is not affiliated with, connected to, or operated by any real bank or financi
 
 It does not process real-world financial transactions.
 
-Do not use real personal, banking, identity, password, or financial information with this application.
 
-🏦 INDI Bank — Vision 2
+🏦 INDI Bank — Vision 1
 
 Built with Python 🐍 | Built for Learning 📚 | Built to Improve 🚀
 
@@ -1340,6 +1315,7 @@ This allowed me to practice Python file-handling concepts such as:
 * Writing files
 * Appending data
 * Managing stored information
+
 The project may eventually migrate from file-based storage to a database.
 
 ---
